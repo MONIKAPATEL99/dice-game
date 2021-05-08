@@ -1,2 +1,2 @@
 # Basic-Dice-Game
-A very basic Dice game created with HTML, CSS, Bootstrap and Javascript
+A Dice game created with CSS, HTML, Bootstrap and Javascript
